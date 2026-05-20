@@ -1,4 +1,4 @@
 a=5
-b=8
+b=17
 toplam=a+b
 print("Toplam:",toplam)
